@@ -1,0 +1,7 @@
+-r base.in
+pre-commit
+pip-compile-multi
+pytest
+pysnooper
+py-spy
+# memray
